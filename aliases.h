@@ -15,6 +15,7 @@
 
 #define f32 float
 #define f64 double
+#define f128 long double
 
 #define INTERNAL static
 #define PERSISTENT static
